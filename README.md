@@ -1,2 +1,2 @@
-# brain-hack
-BrainStation Hackathon
+# 🧠 💻
+## BrainStation Hackathon
