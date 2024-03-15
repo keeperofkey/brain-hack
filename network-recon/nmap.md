@@ -224,7 +224,7 @@ OS and Service detection performed. Please report any incorrect results at https
 
 # CVSS Scan
 
-## nmap -Pn --script 172.18.0.3
+## nmap -Pn --script vuln 172.18.0.3
 
 Not shown: 980 closed tcp ports (reset)
 PORT     STATE SERVICE
